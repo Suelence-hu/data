@@ -1,2 +1,2 @@
 # data
-由于github上传限制，将所用数据集上传至百度云网盘，百度云网盘链接在txt文件中
+Due to Github upload restrictions, the dataset used has been uploaded to Baidu Cloud Network Disk. The Baidu Cloud Network Disk link has been placed in the txt file
